@@ -1,0 +1,140 @@
+body {
+  font-family: Arial;
+  display: flex;
+  gap: 40px;
+  background: #f5f7fb; /*fondo pastel claro */
+}
+
+/* MAPA */
+#mapa {
+  width: 60%;
+}
+
+svg path {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+svg path:hover {
+  fill: #08c550;
+}
+
+/* PANEL DERECHO */
+#info {
+  width: 40%;
+  background: rgba(0, 0, 0, 0.912); 
+  backdrop-filter: blur(10px);
+  color: #f2f2f2;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+/* HEADER (título + tarjetas) */
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+/* CONTENEDOR DE TARJETAS */
+#stats {
+  display: flex;
+  justify-content: center; /* centradas */
+  align-items: center;
+  gap: 15px;
+  margin: 10px 0;
+  flex-wrap: wrap; /* evita que se rompa */
+}
+
+/* TARJETAS */
+.card {
+  width: 130px; /* pequeñas */
+  padding: 15px;
+  border-radius: 12px;
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(12px);
+
+  border: 1px solid rgba(0, 200, 150, 0.2);
+
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+/* TEXTO */
+.card span {
+  font-size: 12px;
+  color: #555;
+}
+
+.card h3 {
+  margin-top: 5px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #00c896;
+}
+
+/* ✨ HOVER */
+.card:hover {
+  transform: translateY(-5px) scale(1.05);
+  box-shadow: 0 0 20px rgba(0, 200, 150, 0.4);
+  border: 1px solid rgba(0, 200, 150, 0.5);
+}
+
+/* EFECTO BRILLO */
+.card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 12px;
+  background: linear-gradient(
+    120deg,
+    transparent,
+    rgba(0, 200, 150, 0.2),
+    transparent
+  );
+  opacity: 0;
+  transition: 0.3s;
+}
+
+.card:hover::before {
+  opacity: 1;
+}
+
+/* LISTA CON SCROLL */
+#lista {
+  max-height: 400px;
+  overflow-y: auto;
+  margin-top: 10px;
+  padding-right: 5px;
+}
+.titulo-animado {
+  font-size: 28px !important;
+  font-weight: bold;
+  text-align: center;
+
+  background: linear-gradient(90deg, #00c896, #00f2ff, #00c896) !important;
+  background-size: 200% !important;
+
+  background-clip: text !important;
+  -webkit-background-clip: text !important;
+
+  color: transparent !important;
+  -webkit-text-fill-color: transparent !important;
+
+  animation: brillo 3s linear infinite !important;
+}
+
+/* animación */
+@keyframes brillo {
+  0% { background-position: 0%; }
+  100% { background-position: 200%; }
+}

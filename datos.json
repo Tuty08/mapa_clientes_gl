@@ -1,0 +1,1027 @@
+[
+  {
+    "Empresa": "empresa san francisco",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "adn logistica sas",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "ac logistica",
+    "Ciudad": "Manizales",
+    "Departamento": "caldas"
+  },
+  {
+    "Empresa": "agroacuicola",
+    "Ciudad": "puerto Gaitan",
+    "Departamento": "meta"
+  },
+  {
+    "Empresa": "albetransa",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "arcolum",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "amasi",
+    "Ciudad": "montería",
+    "Departamento": "córdoba"
+  },
+  {
+    "Empresa": "aquages sas",
+    "Ciudad": "la calera",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "arnulfo craiollo herran",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "artedima",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "tierralta",
+    "Ciudad": "Fusagasugá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "augusto Jimenez cardenas",
+    "Ciudad": "cumaral",
+    "Departamento": "meta"
+  },
+  {
+    "Empresa": "cllipper",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "autofaca",
+    "Ciudad": "Facatativá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "autogroup s.a.s",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "autonal & cia s.a.s",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "autoservicio chía Ltda.",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "axure",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "bip",
+    "Ciudad": "barranquilla",
+    "Departamento": "atlántico"
+  },
+  {
+    "Empresa": "bony",
+    "Ciudad": "cogua",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "brinsa",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "business",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "ca&lu medical care s.a.s",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cars turismo s.a.s.",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cm ship & comex sas",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "coinvertur sas",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "colviatours s.a.s.",
+    "Ciudad": "santa marta",
+    "Departamento": "magdalena"
+  },
+  {
+    "Empresa": "la provincia",
+    "Ciudad": "la mesa",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "consorcio baños tti",
+    "Ciudad": "Ibagué",
+    "Departamento": "Tolima"
+  },
+  {
+    "Empresa": "consipe",
+    "Ciudad": "barranquilla",
+    "Departamento": "atlántico"
+  },
+  {
+    "Empresa": "coomofu",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cootransgirardot",
+    "Ciudad": "Girardot",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cootransper",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cootransvu",
+    "Ciudad": "villa de san diego de ubate",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cootransrosal",
+    "Ciudad": "el rosal",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cootraesturz",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "reina",
+    "Ciudad": "Chiquinquirá",
+    "Departamento": "Boyacá"
+  },
+  {
+    "Empresa": "transporcop",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "conducoop",
+    "Ciudad": "Facatativá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cootranscol",
+    "Ciudad": "Tunja",
+    "Departamento": "Boyacá"
+  },
+  {
+    "Empresa": "circasia",
+    "Ciudad": "circasia",
+    "Departamento": "Quindío"
+  },
+  {
+    "Empresa": "cootransmadrid",
+    "Ciudad": "Madrid",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cooperativa Subachoque",
+    "Ciudad": "Subachoque",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cootranscota",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cootransmundial",
+    "Ciudad": "Soacha",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cootranszipa",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cp logistica",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "dc logistica",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "lausan y 4000",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "frescocampo",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "agromanicero",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "dreams machine",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "drive",
+    "Ciudad": "santa marta",
+    "Departamento": "magdalena"
+  },
+  {
+    "Empresa": "ejecutrans",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "transcolcita",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "empresa san francisco",
+    "Ciudad": "san francisco",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "renaciente",
+    "Ciudad": "Cartagena",
+    "Departamento": "bolívar"
+  },
+  {
+    "Empresa": "energy",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "energytell",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "erica yoana peña duran",
+    "Ciudad": "tocancipa",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "escondor",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "excolcar",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "expreso de la sabana",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "transoriente",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "expreso de atlántico",
+    "Ciudad": "barranquilla",
+    "Departamento": "atlántico"
+  },
+  {
+    "Empresa": "expreso fenix",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Gomez villa",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "comuneros",
+    "Ciudad": "Zipaquir+a",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "suramericano",
+    "Ciudad": "Soacha",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "expreser",
+    "Ciudad": "cota",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "expresscol",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Fabio Hernan Barrantes torres",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "flota chía",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "rio Negro",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "flota zipa",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "fne",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Gabriel Alberto Sandoval pavonea",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "galax tour",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "giant",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Marie Curie",
+    "Ciudad": "Mosquera",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "global safety",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "global trading",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "rio tax",
+    "Ciudad": "la dorada",
+    "Departamento": "caldas"
+  },
+  {
+    "Empresa": "gruas chía",
+    "Ciudad": "chía",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "gruas ole",
+    "Ciudad": "barranquilla",
+    "Departamento": "atlántico"
+  },
+  {
+    "Empresa": "grupo empresarial ct",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "tescor",
+    "Ciudad": "montería",
+    "Departamento": "córdoba"
+  },
+  {
+    "Empresa": "coval",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "rulos tour",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "hye",
+    "Ciudad": "Cajicá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "hiscoeq",
+    "Ciudad": "galapa",
+    "Departamento": "atlántico"
+  },
+  {
+    "Empresa": "hm",
+    "Ciudad": "montería",
+    "Departamento": "córdoba"
+  },
+  {
+    "Empresa": "hortifresco",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "hortigourmet",
+    "Ciudad": "pacho",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Hugo armando pardo matiz",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "iym",
+    "Ciudad": "tenjo",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "im",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "hd",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "geamcol sas",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "integral service",
+    "Ciudad": "cogua",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "integratur",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "inverema",
+    "Ciudad": "barranquilla",
+    "Departamento": "atlántico"
+  },
+  {
+    "Empresa": "inverarabia",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "del pais",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "igatrans sas",
+    "Ciudad": "villa de san diego de ubate",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "imatrans",
+    "Ciudad": "villa de san diego de ubate",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "izaseg",
+    "Ciudad": "Cartagena",
+    "Departamento": "bolívar"
+  },
+  {
+    "Empresa": "jhon Alexander barrera arias",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Jose Gabriel Garcia pinzon",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "la Maria",
+    "Ciudad": "Bogota",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "la arboleda",
+    "Ciudad": "Cajicá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "leon tour",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "renetur",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cajitur",
+    "Ciudad": "Cajicá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "lineas viajeras",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "shalom",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "lottus",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Maria stella Hernandez de sierra",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Mario varon",
+    "Ciudad": "barranquilla",
+    "Departamento": "atlántico"
+  },
+  {
+    "Empresa": "metal y concreto",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Michel Andres Montoya Gaitan",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "mil servicios",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "nicotur",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "zipatours",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "ort",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Oscar Daniel mora herrera",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "primmaria",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Rafael franco forero",
+    "Ciudad": "puerto Gaitán",
+    "Departamento": "meta"
+  },
+  {
+    "Empresa": "ramos tour",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "rápido el Carmen",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "rapido fenix",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "ricotrans",
+    "Ciudad": "bojaca",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "roldan",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "rosmery diaz Novoa",
+    "Ciudad": "acacias",
+    "Departamento": "meta"
+  },
+  {
+    "Empresa": "Ruben dario munevar Garcia",
+    "Ciudad": "Mosquera",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "saint-gobain",
+    "Ciudad": "Mosquera",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "sca",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "seguridad vision",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "service os car",
+    "Ciudad": "soledad",
+    "Departamento": "atlántico"
+  },
+  {
+    "Empresa": "lausan y 4000",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Orinoquia",
+    "Ciudad": "Villavicencio",
+    "Departamento": "meta"
+  },
+  {
+    "Empresa": "sol de la variante",
+    "Ciudad": "Ibagué",
+    "Departamento": "Tolima"
+  },
+  {
+    "Empresa": "transporcop",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "fusion",
+    "Ciudad": "villa de san diego de ubate",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "servifuturo",
+    "Ciudad": "sopo",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "siquima",
+    "Ciudad": "Facatativá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "sonep",
+    "Ciudad": "barranquilla",
+    "Departamento": "atlántico"
+  },
+  {
+    "Empresa": "tierradentro",
+    "Ciudad": "puerto Gaitán",
+    "Departamento": "meta"
+  },
+  {
+    "Empresa": "sotrandes",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "soluciones medicas",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "Subachoque tours",
+    "Ciudad": "Subachoque",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "sunshine",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "tc turismo",
+    "Ciudad": "granada",
+    "Departamento": "meta"
+  },
+  {
+    "Empresa": "tesla",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "thermodynamics & engineering",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "titanes",
+    "Ciudad": "Madrid",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "tci",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "atlantis platino",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "trans capital",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "transespeciales wm",
+    "Ciudad": "sabaneta",
+    "Departamento": "Antioquia"
+  },
+  {
+    "Empresa": "transherveo",
+    "Ciudad": "Ibagué",
+    "Departamento": "Tolima"
+  },
+  {
+    "Empresa": "translanza",
+    "Ciudad": "nunchia",
+    "Departamento": "Casanare"
+  },
+  {
+    "Empresa": "bless",
+    "Ciudad": "titiribi",
+    "Departamento": "Antioquia"
+  },
+  {
+    "Empresa": "transcables",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "transnatur",
+    "Ciudad": "Funza",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "servibus",
+    "Ciudad": "barranquilla",
+    "Departamento": "atlántico"
+  },
+  {
+    "Empresa": "Arizona",
+    "Ciudad": "choconta",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cogua",
+    "Ciudad": "cogua",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "transortes Colombia",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "costa azul",
+    "Ciudad": "puerto Colombia",
+    "Departamento": "atlántico"
+  },
+  {
+    "Empresa": "la estrella carga",
+    "Ciudad": "puerto Gaitán",
+    "Departamento": "meta"
+  },
+  {
+    "Empresa": "duarte",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "el cacique viajero",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "esmeralda",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "cescol",
+    "Ciudad": "Valledupar",
+    "Departamento": "cesar"
+  },
+  {
+    "Empresa": "tesba",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "transoriente",
+    "Ciudad": "Manizales",
+    "Departamento": "caldas"
+  },
+  {
+    "Empresa": "la estrella",
+    "Ciudad": "puerto Gaitán",
+    "Departamento": "meta"
+  },
+  {
+    "Empresa": "uno a",
+    "Ciudad": "Cali",
+    "Departamento": "valle del cauca"
+  },
+  {
+    "Empresa": "transgalaxia",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "guasca",
+    "Ciudad": "guasca",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "trans calera",
+    "Ciudad": "la calera",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "la gloria",
+    "Ciudad": "Aguachica",
+    "Departamento": "cesar"
+  },
+  {
+    "Empresa": "paez Triana",
+    "Ciudad": "villa de san diego de ubate",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "transportes rincón",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "taxi ya",
+    "Ciudad": "Tunja",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "guasa",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "tierra grata",
+    "Ciudad": "Fusagasugá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "unidos del norte",
+    "Ciudad": "chía",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "anserma",
+    "Ciudad": "anserma",
+    "Departamento": "caldas"
+  },
+  {
+    "Empresa": "valvanera",
+    "Ciudad": "chía",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "teusaca",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "turandes",
+    "Ciudad": "Zipaquirá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "siecha",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "turisnova",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "gm4",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "gm4-26",
+    "Ciudad": "santa marta",
+    "Departamento": "magdalena"
+  },
+  {
+    "Empresa": "lyf olmos",
+    "Ciudad": "montería",
+    "Departamento": "córdoba"
+  },
+  {
+    "Empresa": "viajar",
+    "Ciudad": "tocancipa",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "vinaltur",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "vigias",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "William Jairo pinzón rozo",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "yoban arlex Lopez",
+    "Ciudad": "villa de san diego de ubate",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "zehirut",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  },
+  {
+    "Empresa": "zynko",
+    "Ciudad": "Bogotá",
+    "Departamento": "Cundinamarca"
+  }
+]
